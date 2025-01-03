@@ -1,16 +1,9 @@
-# cots_muhammad_chairul_anam
+# Cots PPB Muhammad Chairul Anam_2211104072_SE0601
 
-A new Flutter project.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+- SS
+- ![image alt](https://github.com/chairulanam1605/Praktikum_PPB/blob/main/COTS_ONBOARDING.png)
+- ![image alt](https://github.com/chairulanam1605/Praktikum_PPB/blob/main/COTS_LOGIN.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
